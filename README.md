@@ -1,10 +1,8 @@
-![Referans bir isim](https://svgshare.com/i/wDc.svg)
-
-# TinDog Bootstrap Website
+# Clone TinDog Website
 ![Reference name](https://i.ibb.co/QM7pN8v/Screen-Shot-2023-08-07-at-20-57-43.png)
 
 
-This repository contains a simple website for TinDog, a fictional app that helps dogs find companionship. The website is built using Bootstrap and showcases the features and pricing plans of the app.
+This repository contains a simple website for TinDog, a fictional app that helps dogs find companionship. The website is built using Bootstrap and showcases the features and pricing plans of the app. the project is cloned by Onurcan Genc from Angela Yu's Udemy course.
 
 ## Features
 
@@ -37,4 +35,27 @@ To view the website, simply open the `index.html` file in a web browser. The web
 ## Getting Started
 
 1. Clone this repository:
+   git clone https://github.com/onurcangnc/bootstrap-project2.git
 
+2. Navigate to the repository's directory:
+   cd bootstrap-project2
+
+3. Open the `index.html` file in a web browser to view the TinDog website.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). You can find more details in the `LICENSE` file.
+
+## Credits
+
+- The design and layout of the website are based on Bootstrap framework.
+- The content and images used are for demonstration purposes only.
+
+---
+
+Cloned by Onurcan Genc
+Created by Angela Yu - AppBrewery
