@@ -1,8 +1,8 @@
-# Clone TinDog Website
+# **Clone TinDog Website**
 ![Reference name](https://i.ibb.co/QM7pN8v/Screen-Shot-2023-08-07-at-20-57-43.png)
 
 
-* This repository contains a simple website for TinDog, a fictional app that helps dogs find companionship. The website is built using Bootstrap and showcases the features and pricing plans of the app. the project is cloned by Onurcan Genc from Angela Yu's Udemy course.
+**This repository contains a simple website for TinDog, a fictional app that helps dogs find companionship. The website is built using Bootstrap and showcases the features and pricing plans of the app. the project is cloned by Onurcan Genc from Angela Yu's Udemy course.**
 
 ## Features
 
