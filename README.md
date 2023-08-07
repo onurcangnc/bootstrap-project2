@@ -1,8 +1,7 @@
-# Simple Bootstrap Project
 ![Referans bir isim](https://svgshare.com/i/wDc.svg)
 
 # TinDog Bootstrap Website
-![Reference name](https://ibb.co/DQPzCGf)
+![Reference name](https://i.ibb.co/QM7pN8v/Screen-Shot-2023-08-07-at-20-57-43.png)
 
 
 This repository contains a simple website for TinDog, a fictional app that helps dogs find companionship. The website is built using Bootstrap and showcases the features and pricing plans of the app.
